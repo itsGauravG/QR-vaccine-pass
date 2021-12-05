@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989384023546",
+    "project_id": "doseauth",
+    "storage_bucket": "doseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989384023546:android:70aaea3919015be7629843",
+        "android_client_info": {
+          "package_name": "com.example.vaccinedose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989384023546-dpmh5k5qnjr2iloaproq0khlbht03ilb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKyD-ErPSNZZto382SgQhXnDTI8D3PVXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989384023546-dpmh5k5qnjr2iloaproq0khlbht03ilb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
